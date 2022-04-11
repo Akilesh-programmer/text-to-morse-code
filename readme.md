@@ -9,7 +9,7 @@ The program is run by three files. They are main.py, converter.py and morse_code
  * ### main.py
    In this file only we are making the program run. It is powered by other files.
  * ### converter.py
-   In this file only we have class and methods for converting text to morse code and morse code.
+   In this file only we have class and methods for converting text to morse code and morse code to text.
  * ### morse_code_dictionary
    This file just contains the dictionary where we have the morse code for each character.
 
